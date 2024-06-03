@@ -22,12 +22,12 @@
                 <li>🤝 Habilidad para trabajar en equipo</li>
                 <li>🔧 Adaptable a nuevos desafíos</li>
                 <li>🤓 Siempre aprendiendo cosas nuevas</li>
-                <li>👉 Puedes visitar MI SITIO WEB</li>
+                <li>👉 Puedes visitar MI SITIO WEB [Natanael Lima](https://natanael-lima.github.io/) </li>
             </ul>
         </section>
     </div>
     <hr>
-     <p align="center">GitHub</p>
+     <h2>GitHub</h2>
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natanael-lima&show_icons=true&locale=en&layout=compact" alt="natanael-lima" />
 </p>
