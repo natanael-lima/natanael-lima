@@ -2,7 +2,7 @@
     <header>
         <h1>Hola, soy Natanael</h1>
     </header>
-    <img src="[https://via.placeholder.com/1200x400](https://i.postimg.cc/YCGkLwc2/banner-linkedin.png)" alt="Banner" class="banner">
+    <img src="https://i.postimg.cc/YCGkLwc2/banner-linkedin.png" alt="Banner" class="banner">
     <div class="container">
         <section class="about">
             <h2>Sobre mí</h2>
