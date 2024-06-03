@@ -22,7 +22,7 @@
                    <li>🤓 Siempre aprendiendo cosas nuevas</li>
                    <li>👉 Puedes visitar MI SITIO WEB (https://natanael-lima.github.io/) </li>
                </ul>           
- <h2 align="center">GitHub</h2>
+ <h2 align="center">GitHub Stats</h2>
     <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natanael-lima&show_icons=true&locale=en&layout=compact" alt="natanael-lima" />
     </p>
