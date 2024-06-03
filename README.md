@@ -11,9 +11,7 @@
     </div>
     <div align=left>
         <br>
-    <div class="container">
-        <section class="about">
-            <h2>Sobre mí</h2>
+    ### Sobre mí:
                 -💻 Analista Programador Universitario
                 -🌐 Desarrollor de aplicaciones Web y Desktop
                 -📊 Organización de datos
@@ -22,8 +20,6 @@
                 -🔧 Adaptable a nuevos desafíos
                 -🤓 Siempre aprendiendo cosas nuevas
                 -👉 Puedes visitar MI SITIO WEB [Chess.com](https://natanael-lima.github.io/) 
-        </section>
-    </div>
     <hr>
      <h2>GitHub</h2>
 <p>
