@@ -27,7 +27,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natanael-lima&show_icons=true&locale=en&layout=compact" alt="natanael-lima" />
     </p>
     <p>&nbsp;
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=natanael-lima&show_icons=true&locale=en" alt="natanael-lima" width="510" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=natanael-lima&show_icons=true&locale=en" alt="natanael-lima" width="410" />
     </p>
 </body>
 
