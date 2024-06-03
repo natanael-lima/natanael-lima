@@ -22,19 +22,14 @@
                    <li>🤓 Siempre aprendiendo cosas nuevas</li>
                    <li>👉 Puedes visitar MI SITIO WEB (https://natanael-lima.github.io/) </li>
                </ul>           
-    <hr>
-     <h2>GitHub</h2>
-<p>
+ <h2 align="center">GitHub</h2>
+    <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natanael-lima&show_icons=true&locale=en&layout=compact" alt="natanael-lima" />
-</p>
-<p>&nbsp;
+    </p>
+    <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=natanael-lima&show_icons=true&locale=en" alt="natanael-lima" width="410" />
-</p>
-
-
-
+    </p>
 </body>
-<hr/>
 
 * Credit: [Natanael Lima](https://github.com/natanael-lima)
 * Last Edited on: 03/06/2024
