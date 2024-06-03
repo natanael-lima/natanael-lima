@@ -21,7 +21,24 @@
                 <li>🚀 Proactivo y comprometido con la excelencia</li>
                 <li>🤝 Habilidad para trabajar en equipo</li>
                 <li>🔧 Adaptable a nuevos desafíos</li>
+                <li>🤓 Siempre aprendiendo cosas nuevas</li>
+                <li>🔧 Adaptable a nuevos desafíos</li>
+                <li>👉 Puedes visitar MI SITIO WEB</li>
+
+                
             </ul>
         </section>
     </div>
+    <hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+
+<hr>
 </body>
+<hr/>
+
+* Credit: [Natanael Lima](https://github.com/natanael-lima)
+* Last Edited on: 03/06/2024
