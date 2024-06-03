@@ -14,16 +14,14 @@
     <div class="container">
         <section class="about">
             <h2>Sobre mí</h2>
-            <ul>
-                <li>💻 Analista Programador Universitario</li>
-                <li>🌐 Desarrollor de aplicaciones Web y Desktop</li>
-                <li>📊 Organización de datos</li>
-                <li>🚀 Proactivo y comprometido con la excelencia</li>
-                <li>🤝 Habilidad para trabajar en equipo</li>
-                <li>🔧 Adaptable a nuevos desafíos</li>
-                <li>🤓 Siempre aprendiendo cosas nuevas</li>
-                <li>👉 Puedes visitar MI SITIO WEB [Chess.com](https://natanael-lima.github.io/)  </li>
-            </ul>
+                -💻 Analista Programador Universitario
+                -🌐 Desarrollor de aplicaciones Web y Desktop
+                -📊 Organización de datos
+                -🚀 Proactivo y comprometido con la excelencia
+                -🤝 Habilidad para trabajar en equipo
+                -🔧 Adaptable a nuevos desafíos
+                -🤓 Siempre aprendiendo cosas nuevas
+                -👉 Puedes visitar MI SITIO WEB [Chess.com](https://natanael-lima.github.io/) 
         </section>
     </div>
     <hr>
