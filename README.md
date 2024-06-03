@@ -22,7 +22,7 @@
                 <li>🤝 Habilidad para trabajar en equipo</li>
                 <li>🔧 Adaptable a nuevos desafíos</li>
                 <li>🤓 Siempre aprendiendo cosas nuevas</li>
-                <li>👉 Puedes visitar MI SITIO WEB [Natanael Lima](https://natanael-lima.github.io/) </li>
+                <li>👉 Puedes visitar MI SITIO WEB [hashnode](https://natanael-lima.github.io/) </li>
             </ul>
         </section>
     </div>
