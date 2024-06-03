@@ -1,8 +1,8 @@
 <body>
     <header>
-         <center><h1 aling="center"> 🖐Hola,Soy Natanael Ever Lima Gutierrez</h1></center>
+         <div aling="center"><h1 aling="center"> 🖐Hola,Soy Natanael Ever Lima Gutierrez</h1></div>
     </header>
-    <img src="https://i.postimg.cc/YCGkLwc2/banner-linkedin.png" alt="Banner" class="banner">
+    <img src="https://i.postimg.cc/KzLD1jf7/banner-github.png" alt="Banner" class="banner">
     <div class="container">
         <section class="about">
             <h2>Sobre mí</h2>
