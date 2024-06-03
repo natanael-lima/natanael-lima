@@ -6,7 +6,7 @@
     <div align=center>
         <a href="https://www.linkedin.com/in/natanael-ever-lima-gutierrez-9bb695259/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://github.com/natanael-lima"><img src="https://img.shields.io/badge/GitHub-214A57?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-        <a href="https://img.shields.io/badge/Gmail-C52943?style=flat&logo=gmail&logoColor=white" alt="gmail" /></a>
+        <a href="lima73777@gmail.com"><img src="https://img.shields.io/badge/Gmail-C52943?style=flat&logo=gmail&logoColor=white" alt="gmail" /></a>
         <a href="https://www.facebook.com/natanael1999/"><img src="https://img.shields.io/badge/Facebook-1b155d?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
     </div>
     <div align=left>
