@@ -2,7 +2,7 @@
     <header>
          <div align="center"><h1 align="center"> 🖐Hola, soy Natanael Ever Lima Gutierrez</h1></div>
     </header>
-    <img src="https://i.postimg.cc/KzLD1jf7/banner-github.png" alt="Banner" class="banner">
+    <img src="https://i.postimg.cc/7YB0YSD8/banner-github.png" alt="Banner" class="banner">
     <div align=center>
         <a href="https://www.linkedin.com/in/natanael-ever-lima-gutierrez-9bb695259/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://github.com/natanael-lima"><img src="https://img.shields.io/badge/GitHub-214A57?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -22,21 +22,24 @@
                 <li>🤝 Habilidad para trabajar en equipo</li>
                 <li>🔧 Adaptable a nuevos desafíos</li>
                 <li>🤓 Siempre aprendiendo cosas nuevas</li>
-                <li>🔧 Adaptable a nuevos desafíos</li>
                 <li>👉 Puedes visitar MI SITIO WEB</li>
-
-                
             </ul>
         </section>
     </div>
     <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+     <p align="center">
+    <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" 
+    width="30px" alt="GitHub-Status"/>
+</p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natanael-lima&show_icons=true&locale=en&layout=compact" alt="natanael-lima" />
+</p>
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=natanael-lima&show_icons=true&locale=en" alt="natanael-lima" width="410" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
 
-<hr>
+
 </body>
 <hr/>
 
