@@ -13,7 +13,7 @@
         <br>
    <h2 align="center">Sobre mí</h2>
                <ul>
-                   <li>💻 Analista Programador Universitario</li>
+                   <li>💻 Analista Programador Universitario/ Software Developer</li>
                    <li>🌐 Desarrollador de aplicaciones Web y Desktop</li>
                    <li>📊 Organización de datos</li>
                    <li>🚀 Proactivo y comprometido con la excelencia</li>
