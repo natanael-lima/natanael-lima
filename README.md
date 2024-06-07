@@ -1,6 +1,6 @@
 <body>
     <header>
-         <div align="center"><h1 align="center"> 🖐Hola, soy Natanael Ever Lima Gutierrez</h1></div>
+         <div align="center"><h1 align="center"> 🖐Hi, I'm Natanael Ever Lima Gutierrez</h1></div>
     </header>
     <img src="https://i.postimg.cc/65Zrkm2m/banner-github-2.png" alt="Banner" class="banner">
     <div align=center>
@@ -11,16 +11,16 @@
     </div>
     <div align=left>
         <br>
-   <h2 align="center">Sobre mí</h2>
+   <h2 align="center">About Me</h2>
                <ul>
-                   <li>💻 Analista Programador Universitario/ Software Developer</li>
-                   <li>🌐 Desarrollador de aplicaciones Web y Desktop</li>
-                   <li>📊 Organización de datos</li>
-                   <li>🚀 Proactivo y comprometido con la excelencia</li>
-                   <li>🤝 Habilidad para trabajar en equipo</li>
-                   <li>🔧 Adaptable a nuevos desafíos</li>
-                   <li>🤓 Siempre aprendiendo cosas nuevas</li>
-                   <li>👉 Puedes visitar MI SITIO WEB (https://natanael-lima.github.io/) </li>
+                   <li>💻 Programmer Analyst / Software Developer</li>
+                   <li>🌐 Web and Desktop application developer</li>
+                   <li>📊 Data organization</li>
+                   <li>🚀 Proactive and committed to excellence</li>
+                   <li>🤝 Ability to work in team</li>
+                   <li>🔧 Adaptable to new challenges</li>
+                   <li>🤓 Always learning new things</li>
+                   <li>👉 You can visit MY WEBSITE (https://natanael-lima.github.io/) </li>
                </ul>           
  <h2 align="center">GitHub Stats</h2>
     <p>
@@ -32,4 +32,4 @@
 </body>
 
 * Credit: [Natanael Lima](https://github.com/natanael-lima)
-* Last Edited on: 03/06/2024
+* Last Edited on: 07/06/2024
