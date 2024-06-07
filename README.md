@@ -44,7 +44,6 @@
             <img src="https://www.svgrepo.com/show/373829/maven.svg" alt="maven" width="40" height="40"/>
             <img src="https://www.svgrepo.com/show/452192/docker.svg" alt="docker" width="40" height="40"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" alt="trello" width="37" height="37"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="37" height="37"/> 
             </p>
          <br>
  <h2 align="center">GitHub Stats</h2>
