@@ -37,17 +37,12 @@
             <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="50" height="50"/> 
             <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="mongodb" width="44" height="44"/> 
             <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="sqlserver" width="44" height="44"/>  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="37" height="37"/> 
-            
-            
-            
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="38" height="38"/> 
             <img src="https://www.svgrepo.com/show/373829/maven.svg" alt="maven" width="40" height="40"/>
             <img src="https://www.svgrepo.com/show/452192/docker.svg" alt="docker" width="40" height="40"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" alt="trello" width="37" height="37"/>
-            
-            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="37" height="37"/> 
             </p>
  <h2 align="center">GitHub Stats</h2>
     <p>
