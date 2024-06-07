@@ -40,6 +40,7 @@
             <img src="https://www.svgrepo.com/show/373829/maven.svg" alt="MAVEN" width="40" height="40"/>
             <img src="https://www.svgrepo.com/show/452192/docker.svg" alt="docker" width="35" height="35"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" alt="trello" width="40" height="40"/>
             <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="mongodb" width="40" height="40"/> 
             </p>
  <h2 align="center">GitHub Stats</h2>
