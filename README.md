@@ -34,7 +34,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> 
             <img src="https://logosandtypes.com/wp-content/uploads/2020/07/microsoft-net.svg" alt=".net" width="40" height="40"/> 
             <img src="https://www.svgrepo.com/show/452156/angular.svg" alt="angular" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
             <img src="https://www.svgrepo.com/show/373829/maven.svg" alt="MAVEN" width="40" height="40"/>
