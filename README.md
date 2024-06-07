@@ -24,9 +24,9 @@
                </ul>
             <p align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="55" height="55"/> 
-            <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="55" height="60"/> 
-            <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="nodejs" width="60" height="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="60"/>
+            <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="55" height="55"/> 
+            <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="nodejs" width="55" height="55"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="55" height="55"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="35" height="35"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="45" height="40"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
