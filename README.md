@@ -23,6 +23,7 @@
                    <li>👉 You can visit MY WEBSITE (https://natanael-lima.github.io/) </li>
                </ul>
             <br>
+    <h2 align="center">Languages and Tools</h2>
             <p align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
             <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="csharp" width="42" height="40"/>
