@@ -36,7 +36,7 @@
             <img src="https://logosandtypes.com/wp-content/uploads/2020/07/microsoft-net.svg" alt="wpf" width="44" height="44"/> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" alt=".net" width="36" height="36"/>   
             <img src="https://img.icons8.com/fluency/48/my-sql.png" alt="mysql" width="50" height="50"/> 
-            <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="mongodb" width="44" height="44"/> 
+            <img src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" width="44" height="44"/> 
             <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="sqlserver" width="44" height="44"/>  
             <img src="https://img.icons8.com/color-glass/48/github--v1.png" alt="github" width="42" height="40"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="38" height="38"/> 
