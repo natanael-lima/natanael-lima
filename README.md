@@ -22,6 +22,7 @@
                    <li>🤓 Always learning new things</li>
                    <li>👉 You can visit MY WEBSITE (https://natanael-lima.github.io/) </li>
                </ul>
+            <br>
             <p align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
             <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="csharp" width="42" height="40"/>
@@ -45,6 +46,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" alt="trello" width="37" height="37"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="37" height="37"/> 
             </p>
+         <br>
  <h2 align="center">GitHub Stats</h2>
     <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natanael-lima&show_icons=true&locale=en&layout=compact" alt="natanael-lima" />
