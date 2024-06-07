@@ -34,14 +34,14 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="37" height="37"/> 
             <img src="https://logosandtypes.com/wp-content/uploads/2020/07/microsoft-net.svg" alt=".net" width="45" height="45"/> 
             <img src="https://www.svgrepo.com/show/452156/angular.svg" alt="angular" width="43" height="43"/>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024" alt="bootstrap" width="40" height="35"/> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024" alt="bootstrap" width="40" height="34"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="38" height="38"/> 
             <img src="https://www.svgrepo.com/show/373829/maven.svg" alt="MAVEN" width="40" height="40"/>
-            <img src="https://www.svgrepo.com/show/452192/docker.svg" alt="docker" width="35" height="35"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" alt="trello" width="40" height="40"/>
-            <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="mongodb" width="40" height="40"/> 
+            <img src="https://www.svgrepo.com/show/452192/docker.svg" alt="docker" width="40" height="40"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" alt="trello" width="37" height="37"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" alt="trello" width="37" height="37"/>
+            <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="mongodb" width="44" height="44"/> 
             </p>
  <h2 align="center">GitHub Stats</h2>
     <p>
