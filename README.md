@@ -34,7 +34,6 @@
             <img src="https://img.icons8.com/color/48/thymeleaf.png" alt="thymeleaf" width="43" height="43"/>
             <img src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap" width="43" height="43"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/>
-            <img src="https://logosandtypes.com/wp-content/uploads/2020/07/microsoft-net.svg" alt="wpf" width="44" height="44"/> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" alt=".net" width="36" height="36"/>   
             <img src="https://img.icons8.com/fluency/48/my-sql.png" alt="mysql" width="50" height="50"/> 
             <img src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" width="44" height="44"/> 
