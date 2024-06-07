@@ -28,11 +28,11 @@
             <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="csharp" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="35" height="35"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="30" height="38"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="30" height="38"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="30" height="40"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="30" height="39"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="ts" width="35" height="35"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="35" height="35"/> 
-            <img src="https://logosandtypes.com/wp-content/uploads/2020/07/microsoft-net.svg" alt=".net" width="35" height="35"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="38" height="38"/> 
+            <img src="https://logosandtypes.com/wp-content/uploads/2020/07/microsoft-net.svg" alt=".net" width="45" height="45"/> 
             <img src="https://www.svgrepo.com/show/452156/angular.svg" alt="angular" width="40" height="40"/>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024" alt="bootstrap" width="45" height="45"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
