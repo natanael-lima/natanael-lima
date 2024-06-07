@@ -1,4 +1,4 @@
-![image](https://github.com/natanael-lima/natanael-lima/assets/83619182/52a583b4-a73c-4e3f-bb46-c073646d6e93)<body>
+<body>
     <header>
          <div align="center"><h1 align="center"> 🖐Hi, I'm Natanael Ever Lima Gutierrez</h1></div>
     </header>
@@ -24,20 +24,21 @@
                </ul>
             <p align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-            <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="csharp" width="40" height="40"/>
+            <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="csharp" width="42" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="ts" width="35" height="35"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="37" height="37"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="37" height="37"/>   
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="35" height="35"/>
             <img src="https://www.svgrepo.com/show/452156/angular.svg" alt="angular" width="43" height="43"/>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024" alt="bootstrap" width="40" height="34"/>
-            <img src="https://logosandtypes.com/wp-content/uploads/2020/07/microsoft-net.svg" alt=".net" width="45" height="45"/> 
+            <img src="https://img.icons8.com/color/48/thymeleaf.png" alt="thymeleaf" width="43" height="43"/>
+            <img src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap" width="43" height="43"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" alt="wpf" width="37" height="37"/>   
-            <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="50" height="50"/> 
+            <img src="https://logosandtypes.com/wp-content/uploads/2020/07/microsoft-net.svg" alt="wpf" width="44" height="44"/> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" alt=".net" width="36" height="36"/>   
+            <img src="https://img.icons8.com/fluency/48/my-sql.png" alt="mysql" width="50" height="50"/> 
             <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="mongodb" width="44" height="44"/> 
-            <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="sqlserver" width="44" height="44"/>  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+            <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="sqlserver" width="44" height="44"/>  
+            <img src="https://img.icons8.com/color-glass/48/github--v1.png" alt="github" width="42" height="40"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="38" height="38"/> 
             <img src="https://www.svgrepo.com/show/373829/maven.svg" alt="maven" width="40" height="40"/>
             <img src="https://www.svgrepo.com/show/452192/docker.svg" alt="docker" width="40" height="40"/> 
