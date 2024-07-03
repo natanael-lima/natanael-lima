@@ -8,6 +8,7 @@
         <a href="https://github.com/natanael-lima"><img src="https://img.shields.io/badge/GitHub-214A57?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
         <a href="lima73777@gmail.com"><img src="https://img.shields.io/badge/Gmail-C52943?style=flat&logo=gmail&logoColor=white" alt="gmail" /></a>
         <a href="https://www.facebook.com/natanael1999/"><img src="https://img.shields.io/badge/Facebook-1b155d?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
+        <p align="left"> <img src="https://komarev.com/ghpvc/?username=natanael-lima&label=Profile%20views&color=ba0bea&style=flat" alt="natanael" /> </p>
     </div>
     <div align=left>
         <br>
@@ -53,7 +54,7 @@
     <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=natanael-lima&show_icons=true&locale=en" alt="natanael-lima" width="410" />
     </p>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=natanael-lima&label=Profile%20views&color=ba0bea&style=flat" alt="natanael" /> </p>
+    
 </body>
 
 * Credit: [Natanael Lima](https://github.com/natanael-lima)
