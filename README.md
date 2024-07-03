@@ -53,6 +53,7 @@
     <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=natanael-lima&show_icons=true&locale=en" alt="natanael-lima" width="410" />
     </p>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=natanael-lima&label=Profile%20views&color=ba0bea&style=flat" alt="natanael" /> </p>
 </body>
 
 * Credit: [Natanael Lima](https://github.com/natanael-lima)
