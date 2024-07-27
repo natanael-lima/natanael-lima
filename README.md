@@ -1,6 +1,6 @@
 <body>
     <header>
-         <div align="center"><h1 align="center"> 🖐Hi, I'm Natanael Ever Lima Gutierrez</h1></div>
+         <div align="center"><h1 align="center"> 🖐Hi, I'm Natanael Lima</h1></div>
     </header>
     <img src="https://i.postimg.cc/9FBXqjzT/banner-github-2.png" alt="Banner" class="banner">
     <div align=center>
@@ -58,4 +58,4 @@
 </body>
 
 * Credit: [Natanael Lima](https://github.com/natanael-lima)
-* Last Edited on: 03/07/2024
+* Last Edited on: 26/07/2024
