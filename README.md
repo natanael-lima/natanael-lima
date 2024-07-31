@@ -23,7 +23,15 @@
                    <li>🤓 Always learning new things</li>
                    <li>👉 You can visit MY WEBSITE (https://natanael-lima.github.io/) </li>
                </ul>
-            <br>   
+            <br>
+<h2 align="center">Languages and Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,ts,js,html,css,spring,dotnet,angular,bootstrap,nodejs,maven,hibernate,mysql,mongodb,github,gitlab,git,docker,postman,visualstudio,vscode,linux,windows&theme=dark&perline=6" />
+  </a>
+</p>
+
+<!--
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
 <markdown-accessiblity-table>
@@ -111,9 +119,7 @@
     </tr>
   </table>
 </markdown-accessiblity-table>
-</p>
-
-
+</p>-->
  <h2 align="center">GitHub Stats</h2>
     <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natanael-lima&show_icons=true&locale=en&layout=compact" alt="natanael-lima" />
