@@ -1,6 +1,6 @@
 <body>
     <header>
-         <div align="center"><h1 align="center"> 🖐Hi, I'm Natanael Lima</h1></div>
+         <div align="center"><h1 align="center">👋 Hi, I'm Natanael Lima</h1></div>
     </header>
     <img src="https://i.postimg.cc/8CCf3Rwz/banner-github-3.png" alt="Banner" class="banner">
     <div align=center>
