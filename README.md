@@ -30,7 +30,6 @@
     <img src="https://skillicons.dev/icons?i=java,cs,ts,js,html,css,spring,dotnet,angular,bootstrap,nodejs,maven,hibernate,mysql,mongodb,github,gitlab,git,docker,postman,visualstudio,vscode,linux,windows&theme=dark&perline=6" />
   </a>
 </p>
-
 <!--
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
@@ -127,7 +126,6 @@
     <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=natanael-lima&show_icons=true&locale=en" alt="natanael-lima" width="410" />
     </p>
-    
 </body>
-
+        
 * Credit: [Natanael Lima](https://github.com/natanael-lima)
