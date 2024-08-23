@@ -1,3 +1,4 @@
+
 <body>
     <header>
          <div align="center"><h1 align="center">👋 Hi, I'm Natanael Lima</h1></div>
@@ -21,7 +22,7 @@
                    <li>🤝 Ability to work in team</li>
                    <li>🔧 Adaptable to new challenges</li>
                    <li>🤓 Always learning new things</li>
-                   <li>👉 You can visit MY WEBSITE (https://natanaellima.vercel.app/) </li>
+                   <li>👉 You can visit MY WEBSITE (https://natanaellima.vercel.app/)  </li>
                </ul>
             <br>
 <h2 align="center">Languages and Tools</h2>
