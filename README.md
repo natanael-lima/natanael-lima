@@ -3,7 +3,7 @@
     <header>
          <div align="center"><h1 align="center">👋 Hi, I'm Natanael Lima</h1></div>
     </header>
-        <img src="https://i.postimg.cc/FFwRH6gs/banner-github.png" alt="Banner" class="banner">
+        <img src="https://i.postimg.cc/rmYBgvFd/banner-github-0.png" alt="Banner" class="banner">
     <div align=center>
         <a href="https://www.linkedin.com/in/natanael-ever-lima-gutierrez-9bb695259/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://github.com/natanael-lima"><img src="https://img.shields.io/badge/GitHub-214A57?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
