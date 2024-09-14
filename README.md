@@ -15,7 +15,7 @@
     <br>
    <h2 align="center">About Me</h2>
                <ul>
-                   <li>💻 Programmer Analyst / Software Developer</li>
+                   <li>💻 Programmer Analyst / Software Developer </li>
                    <li>🌐 Web and Desktop application developer</li>
                    <li>📊 Data organization</li>
                    <li>🚀 Proactive and committed to excellence</li>
