@@ -28,7 +28,7 @@
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,ts,js,html,css,spring,dotnet,angular,bootstrap,nodejs,maven,hibernate,mysql,mongodb,github,gitlab,git,docker,postman,visualstudio,vscode,linux,windows&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,cs,ts,html,css,spring,angular,bootstrap,nodejs,hibernate,mysql,mongodb,github,git,docker,postman,linux,windows&theme=dark&perline=6" />
   </a>
 </p>
 <h2 align="center">GitHub Stats</h2>
