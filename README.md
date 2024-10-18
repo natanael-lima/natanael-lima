@@ -12,7 +12,7 @@
         <a> <img src="https://komarev.com/ghpvc/?username=natanael-lima&label=Profile%20views&color=ba0bea&style=flat" alt="natanael" /> </a>
     </div>
     <div align=left>
-    <br>
+     <br>
    <h2 align="center">About Me</h2>
                <ul>
                    <li>💻 Programmer Analyst / Software Developer </li>
