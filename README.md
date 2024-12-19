@@ -31,13 +31,13 @@
     <img src="https://skillicons.dev/icons?i=java,ts,html,css,spring,angular,tailwind,bootstrap,nodejs,hibernate,mysql,mongodb,postgresql,github,git,docker,postman,linux&theme=dark&perline=6" />
   </a>
 </p>
-<!--<h2 align="center">GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natanael-lima&show_icons=true&locale=en&layout=compact" alt="natanael-lima" />
   </p>
   <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=natanael-lima&show_icons=true&locale=en" alt="natanael-lima" width="410" />
-  </p>-->
+  </p>
 </body>
         
 * Credit: [Natanael Lima](https://github.com/natanael-lima)
