@@ -1,4 +1,3 @@
-
 <body>
     <header>
          <div align="center"><h1 align="center">👋 Hi, I'm Natanael Lima</h1></div>
